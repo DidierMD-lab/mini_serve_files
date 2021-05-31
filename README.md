@@ -25,3 +25,7 @@ La siguiente imagen es una disposición posible de la página (pero no tiene que
 * Mostrar fechas mínima y máxima dentro del archivo csv, usando la columna indicada dentro del JSON.
 
 * Usar Bootstrap.
+
+* Mantener un registro de las descargas relizadas en una base de datos independiente a django. Para esto se puede utilizar una base SQLite.
+
+## Entrega
